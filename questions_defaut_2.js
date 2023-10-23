@@ -13,7 +13,7 @@ export const Questions = [
       "Quelle est la différence entre une région AWS et une zone de disponibilité ?",
     answers: [
       "Une région est un ensemble de zones de disponibilité; une zone de disponibilité est un centre de données isolé.",
-      "Une région est un data center; une zone de disponibilité est un cluster dans ce data center.",
+      "Une région est un data center; une zone de disponibilité est un cluster.",
       "Une région est un data center; une zone de disponibilité est un cluster dans ce data center.",
     ],
     correct:
