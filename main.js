@@ -1,5 +1,5 @@
 import "./style.css";
-import { Questions } from "./questions_defaut";
+import { Questions } from "./questions_defaut_2";
 
 const TIMEOUT = 4000;
 
